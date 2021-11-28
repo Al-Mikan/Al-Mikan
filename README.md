@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Mayu Kikuchi:orange:</h1>
+<h2 align="center">Hi, I'm Mayu Kikuchi:orange:</h2>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Al-Mikan&label=Profile%20views&color=0e75b6&style=flat" alt="al-mikan" /> </p>
 
 ### Trophy
