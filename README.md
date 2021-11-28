@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi, I'm Mayu KIkuchi:orange:</h1>
+<h1 align="center">Hi, I'm Mayu Kikuchi:orange:</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Al-Mikan&label=Profile%20views&color=0e75b6&style=flat" alt="al-mikan" /> </p>
 
 ### Trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Al-Mikan" alt="al-mikan" /></a> </p>
@@ -16,7 +17,6 @@
 ### Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Al-Mikan&" alt="al-mikan" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Al-Mikan&label=Profile%20views&color=0e75b6&style=flat" alt="al-mikan" /> </p>
 
 <!-- ## [GitHub Status](./default/README.md)
 [![](https://raw.githubusercontent.com/Al-Mikan/Al-Mikan/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
